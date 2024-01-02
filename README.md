@@ -1,2 +1,2 @@
 # Cryptography
-Assignments for Cryptography course
+Assignments for Cryptography course at Virginia Tech
